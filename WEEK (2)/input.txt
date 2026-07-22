@@ -1,0 +1,10 @@
+Cardiology Neurology Cardiology
+Orthopedics Cardiology Pediatrics
+Neurology Pediatrics Cardiology
+Orthopedics Neurology Cardiology
+Pediatrics Cardiology Orthopedics
+Neurology Pediatrics Neurology
+Cardiology Orthopedics Pediatrics
+Neurology Cardiology Orthopedics
+Pediatrics Neurology Cardiology
+Orthopedics Cardiology Neurology
